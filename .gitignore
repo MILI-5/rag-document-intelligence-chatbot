@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+
+# Uploads (important for your project)
+uploads/
+
+# API keys
+.env
