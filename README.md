@@ -118,7 +118,7 @@ RAG-Document-Intelligence-Chatbot/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/rag-document-intelligence-chatbot.git
+git clone https://github.com/MILI-5/rag-document-intelligence-chatbot.git
 cd rag-document-intelligence-chatbot
 ```
 
@@ -233,6 +233,12 @@ Generate context-aware answers using retrieved knowledge.
 
 Deployed using:
 - Streamlit Cloud
+
+---
+
+# 🚀 Live Demo
+
+👉 [Open Live App](https://rag-document-intelligence-chatbot-jzoc6ucye3h8huuqyfwvpy.streamlit.app/)
 
 ---
 
